@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**C8338Soner/C8338Soner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **C8338Soner/C8338Soner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!--
 Here are some ideas to get you started:
