@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=C8338Soner&show_icons=true&theme=gradient)
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=C8338Soner&show_icons=true&theme=radical)
 
 ![alt text](https://www.markakalem.com/skins/shared/images/ozel_sayfalar/victorinox_seri/victorinox_ordu_serisi.jpg)
